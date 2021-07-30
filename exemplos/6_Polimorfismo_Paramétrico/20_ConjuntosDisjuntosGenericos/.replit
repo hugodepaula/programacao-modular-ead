@@ -1,0 +1,5 @@
+run = " dotnet run"
+entrypoint = "main.cs"
+
+[env]
+DOTNET_SKIP_FIRST_TIME_EXPERIENCE = "true"
