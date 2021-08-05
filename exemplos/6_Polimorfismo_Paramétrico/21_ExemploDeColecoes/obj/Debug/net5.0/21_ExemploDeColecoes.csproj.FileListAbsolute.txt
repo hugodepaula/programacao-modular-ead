@@ -1,0 +1,16 @@
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.exe
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.deps.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.runtimeconfig.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.runtimeconfig.dev.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\ref\21_ExemploDeColecoes.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\bin\Debug\net5.0\21_ExemploDeColecoes.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.csproj.AssemblyReference.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.AssemblyInfoInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.AssemblyInfo.cs
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.csproj.CoreCompileInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\ref\21_ExemploDeColecoes.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\21_ExemploDeColecoes\obj\Debug\net5.0\21_ExemploDeColecoes.genruntimeconfig.cache

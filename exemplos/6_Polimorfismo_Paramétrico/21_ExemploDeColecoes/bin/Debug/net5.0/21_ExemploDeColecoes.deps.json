@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "21_ExemploDeColecoes/1.0.0": {
+        "runtime": {
+          "21_ExemploDeColecoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_ExemploDeColecoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
