@@ -28,7 +28,7 @@ namespace ClassesSealed
   {
     // Tentativa de sobrepor um método selado
     // error CS0239: 'Selada.Primeiro()': cannot override inherited member 'MembroSelado.Primeiro()'
-    protected override void Primeiro() 
+    public override void Primeiro() 
     { 
       Console.WriteLine("Selada: primeiro método.");
     }
@@ -43,7 +43,7 @@ namespace ClassesSealed
   // error CS0509: 'Sobreposicao': cannot derive from sealed type 'Selada'
   class Sobreposicao : Selada
   {
-    protected override void Primeiro() 
+    public override void Primeiro() 
     { 
       Console.WriteLine("Sobreposicao: primeiro método.");
     }
