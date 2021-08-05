@@ -1,0 +1,16 @@
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.exe
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.deps.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.runtimeconfig.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.runtimeconfig.dev.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\ref\22_ExemploDeDicionario.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\bin\Debug\net5.0\22_ExemploDeDicionario.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.csproj.AssemblyReference.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.AssemblyInfoInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.AssemblyInfo.cs
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.csproj.CoreCompileInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\ref\22_ExemploDeDicionario.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\22_ExemploDeDicionario\obj\Debug\net5.0\22_ExemploDeDicionario.genruntimeconfig.cache
