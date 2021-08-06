@@ -1,0 +1,16 @@
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.exe
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.deps.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.runtimeconfig.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.runtimeconfig.dev.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\ref\25_DelegateSimples.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\bin\Debug\net5.0\25_DelegateSimples.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.csproj.AssemblyReference.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.AssemblyInfoInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.AssemblyInfo.cs
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.csproj.CoreCompileInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\ref\25_DelegateSimples.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\25_DelegateSimples\obj\Debug\net5.0\25_DelegateSimples.genruntimeconfig.cache
