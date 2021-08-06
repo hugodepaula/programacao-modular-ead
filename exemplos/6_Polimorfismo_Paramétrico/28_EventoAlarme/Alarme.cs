@@ -19,6 +19,10 @@ namespace _28_EventoAlarme
           if (TempoEsgotado != null)
           {
             TempoEsgotado("Tempo esgotado!");
+          } 
+          else 
+          {
+            Console.WriteLine("Nenhum assinante registrado.");
           }
         }
     }

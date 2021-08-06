@@ -2,22 +2,28 @@
 
 namespace _28_EventoAlarme
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Alarme alarme = new Alarme();
+      Alarme alarme = new Alarme();
 
-            // Registra o método de callback no alarme
-            alarme.TempoEsgotado += MensagemConsole;
+      // Registra o método de callback no alarme
+      alarme.TempoEsgotado += MensagemConsole;
 
-            // Ao disparar o evento, ele irá notificar os assinantes do evento tempo esgotado.
-            alarme.DisparaEvento();
-        }
+      // Ao disparar o evento, ele irá notificar os assinantes do evento tempo esgotado.
+      alarme.DisparaEvento();
 
-        public static void MensagemConsole(string mensagem) 
-        {
-            Console.WriteLine(mensagem);
-        }
+      // Registra o método de callback no alarme
+      alarme.TempoEsgotado -= MensagemConsole;
+
+      // Ao disparar o evento, ele irá notificar os assinantes do evento tempo esgotado.
+      alarme.DisparaEvento();
     }
+
+    public static void MensagemConsole(string mensagem)
+    {
+      Console.WriteLine(mensagem);
+    }
+  }
 }
