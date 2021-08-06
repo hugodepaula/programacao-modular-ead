@@ -1,0 +1,16 @@
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.exe
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.deps.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.runtimeconfig.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.runtimeconfig.dev.json
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\ref\28_EventoAlarme.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\bin\Debug\net5.0\28_EventoAlarme.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.csproj.AssemblyReference.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.AssemblyInfoInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.AssemblyInfo.cs
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.csproj.CoreCompileInputs.cache
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\ref\28_EventoAlarme.dll
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.pdb
+D:\OneDrive - sga.pucminas.br\git-code\disciplinas\pm-ead\exemplos\6_Polimorfismo_Paramétrico\28_EventoAlarme\obj\Debug\net5.0\28_EventoAlarme.genruntimeconfig.cache
